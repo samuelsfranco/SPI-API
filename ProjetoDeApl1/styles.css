@@ -1,0 +1,121 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 22px;
+}
+
+header{
+    text-align: center;
+    font-size: 30px;
+    padding: 40px;
+    background-color: aqua;
+}
+
+.topoUL{
+    display: flex;
+    list-style: none;
+    margin: 0px;
+    justify-content: space-between;
+    background-color: aqua;
+    padding: 20px;
+    margin-top: 20px;
+    
+    
+    
+    
+}
+
+.sectionGrid{
+    display: flex;
+
+
+}
+
+
+
+
+
+
+
+
+  
+
+
+.Protocolos1{
+   
+width: 50%;
+
+   
+}
+.Protocolos2{
+
+width:50%;
+
+
+}
+
+
+.C-exemplo{
+   
+   display: flex;
+   text-align: center;
+   
+   
+}
+
+
+
+.C-tabelas{
+    display: flex;
+   justify-content: center;
+   
+   
+   
+}
+.C-exemplo{
+    display: flex;
+    margin-top: 20px;
+    font-size: 25px;
+    
+}
+.conteudo1{
+    background-color: rgba(46, 9, 255, 0.61);
+    width: 50%;
+    padding: 40px;
+}
+.conteudo2{
+    background-color: aqua;
+    width: 50%;
+}
+.conteudo3{
+    background-color: brown;
+    width: 33.33%;
+}
+
+
+
+.C-footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 20px;
+
+}
+.sobre{
+    background-color: rgb(214, 214, 214);
+}
+.tutoriais{
+    background-color: rgb(214, 214, 214);
+}
+.direitosRes{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.c-formulario{
+    display: flex;
+    
+   margin-left: 120px;
+   margin-top: 80px;
+   margin-bottom: 200px;
+    
+}
